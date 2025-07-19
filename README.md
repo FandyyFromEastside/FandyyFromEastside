@@ -1,27 +1,47 @@
-# 👋 Halo Gang, Nama gua Fandy!
+# 👋 Halo, gue Fandy!
 
-🌱 Lagi belajar jadi web developer  
-💻 Punya hobi ngoding di Linux & VS Code  
-🚀 Suka bikin project mini yang bisa dipajang
+🌱 Sedang belajar dan berkembang sebagai **Web Developer** & **Game Developer**  
+💻 Hobi ngulik **Python**, ngoding di **Linux**, dan bikin project kece  
+🚀 Suka bikin project mini biar skill makin naik dan bisa dibagikan ke publik
 
 ---
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript
-- Python (Flask), Linux Terminal
-- Git & GitHub, VS Code
+- Python (Flask, CLI apps)
+- Linux, Git, VS Code
+- Game Dev (Godot / Pygame)
 
 ---
 
 ## 🔥 Project Gacor
+
 | Nama Project | Deskripsi | Demo |
 |--------------|-----------|------|
-| 🛍️ Mini E-Commerce | Web toko mini pakai HTML/CSS/JS | [Lihat](https://FandyyFromEastside.github.io/mini-ecommerce) |
-| ☁️ Aplikasi Cuaca | Ambil data cuaca dari API | [Lihat](https://FandyyFromEastside.github.io/weather-app) |
-| 📋 Catatan Harian | Simpan dan edit catatan pakai localStorage | [Lihat](https://FandyyFromEastside.github.io/notepad-app) |
+| 🛍️ Mini E-Commerce | Web toko online sederhana dengan daftar produk & fitur keranjang | (coming soon) |
+| ☁️ Aplikasi Cuaca | Cek cuaca real-time dari API berdasarkan nama kota | (coming soon) |
+| 🎮 Game Tebak Angka | Game CLI sederhana pake Python, latihan logika dan input | (coming soon) |
 
 ---
 
-> “Belajar boleh pelan, yang penting konsisten!”
+## 📈 GitHub Stats
 
-📫 **Kontak gue:** [Instagram](https://instagram.com/fandiiiyy) | [LinkedIn](https://linkedin.com/in/murfandiramadani)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FandyFromEastside&show_icons=true&theme=tokyonight" alt="Fandy's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FandyFromEastside&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FandyFromEastside&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+> “Belajar boleh pelan, yang penting konsisten tiap hari!” 😎
+
+📫 **Kontak gue:**  
+[Instagram](https://instagram.com/namalu)  
+[LinkedIn](https://linkedin.com/in/namalu)
