@@ -43,5 +43,5 @@
 > “Belajar boleh pelan, yang penting konsisten tiap hari!” 😎
 
 📫 **Kontak gue:**  
-[Instagram](https://instagram.com/namalu)  
-[LinkedIn](https://linkedin.com/in/namalu)
+[Instagram](https://instagram.com/fandiiiyy)  
+[LinkedIn](https://linkedin.com/in/murfandiramadani)
