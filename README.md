@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Halo Gang, Nama gua Fandy!
 
-<!--
-**FandyyFromEastside/FandyyFromEastside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Lagi belajar jadi web developer  
+💻 Punya hobi ngoding di Linux & VS Code  
+🚀 Suka bikin project mini yang bisa dipajang
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- Python (Flask), Linux Terminal
+- Git & GitHub, VS Code
+
+---
+
+## 🔥 Project Gacor
+| Nama Project | Deskripsi | Demo |
+|--------------|-----------|------|
+| 🛍️ Mini E-Commerce | Web toko mini pakai HTML/CSS/JS | [Lihat](https://FandyyFromEastside.github.io/mini-ecommerce) |
+| ☁️ Aplikasi Cuaca | Ambil data cuaca dari API | [Lihat](https://FandyyFromEastside.github.io/weather-app) |
+| 📋 Catatan Harian | Simpan dan edit catatan pakai localStorage | [Lihat](https://FandyyFromEastside.github.io/notepad-app) |
+
+---
+
+> “Belajar boleh pelan, yang penting konsisten!”
+
+📫 **Kontak gue:** [Instagram](https://instagram.com/fandiiiyy) | [LinkedIn](https://linkedin.com/in/murfandiramadani)
