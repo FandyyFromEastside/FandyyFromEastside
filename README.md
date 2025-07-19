@@ -1,4 +1,4 @@
-# 👋 Halo, gue Fandy!
+# 👋 Halo Gang, Gua Fandy!
 
 🌱 Sedang belajar dan berkembang sebagai **Web Developer** & **Game Developer**  
 💻 Hobi ngulik **Python**, ngoding di **Linux**, dan bikin project kece  
